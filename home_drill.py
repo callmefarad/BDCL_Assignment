@@ -1,3 +1,7 @@
-# A man went to a super market with an unknown amount of money, he bought three items(soap, milk and juice) and came back with a balance. Write a dynamic program that interpretes # the whole process displaying the balance he came back with.
+# A man went to a super market with an unknown amount of money, he bought three
+# items(soap, milk and juice) and came back with a balance.
+# Write a dynamic program that interprets the whole process
+# displaying the balance he came back with.
 
 # Enter your solution here:
+test = "testing a new branch"
