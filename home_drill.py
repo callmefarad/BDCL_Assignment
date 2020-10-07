@@ -5,3 +5,17 @@
 
 # Enter your solution here:
 
+
+
+
+
+# let the unknown amount be #2000
+
+x = 2000
+items = ['soap', 'milk', 'juice']
+price1 = 200
+price2 = 500
+price3 = 300
+total = price1 + price2 + price3
+balance = x - total
+print(balance)
