@@ -10,12 +10,13 @@
 
 
 # let the unknown amount be #2000
+# contributed  by gideon, joshua, yusuf
 
 x = 2000
 items = ['soap', 'milk', 'juice']
-price1 = 200
-price2 = 500
-price3 = 300
-total = price1 + price2 + price3
+price_soap = 200
+price_milk = 500
+price_juice = 300
+total = price_soap + price_milk + price_juice
 balance = x - total
-print(balance)
+print("this is the balance",balance)
