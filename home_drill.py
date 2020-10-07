@@ -15,4 +15,3 @@ Balance = totalAmount - items
 
 print("The  balance is: ", Balance)
 
-print("COPYRIGHT: Emma, Lekan Ola")
